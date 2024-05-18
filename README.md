@@ -1,9 +1,10 @@
 # PROMPT GENERATION VIA OPEN AI & GEMINI
 
 The Following Topic has been selected for prompt generation: 
-- Motivational Message Generation: Generate a motivational message or pep talk aimed at boosting someone's confidence or morale.
+- Motivational Message Generation: 
+  Generate a motivational message or pep talk aimed at boosting someone's confidence or morale.
 
-## HOW TO PYTHON NOTEBOOK
+## HOW TO RUN PYTHON NOTEBOOK
 Following are the steps to run Jupyter Notebook:
 - Download the above GitHub repository & extract files in a folder.
 - Two separate Python notebooks for Gemini & Open AI are present in the repo.
